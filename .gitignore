@@ -9,3 +9,6 @@ outputs/*
 **/__pycache__
 **/.mypy_cache
 **/*.swp
+
+# new experiments
+new_experiments/*
